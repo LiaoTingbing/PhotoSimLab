@@ -9,3 +9,19 @@
   height: 200px;
   width: 200px;
 }
+
+.featureDescriptionLink {
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.3s ease;
+}
+
+.featureDescriptionLink:hover {
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+}
+
+.featureDescriptionLink:hover p {
+  color: var(--ifm-color-primary);
+  transform: translateY(-2px);
+}
