@@ -1,0 +1,19 @@
+Message: NZ=101, NX=201, NY=101, Estimated Time = 0.027 min
+Message: NZ=101, NX=401, NY=201, Estimated Time = 0.108 min
+Message: Actual Computation Time = 0.033 min
+Message: NZ=101, NX=401, NY=201, Estimated Time = 0.033 min
+Message: Actual Computation Time = 0.032 min
+Message: NZ=101, NX=401, NY=201, Estimated Time = 0.032 min
+Message: Actual Computation Time = 0.032 min
+Message: NZ=101, NX=401, NY=201, Estimated Time = 0.032 min
+Message: NZ=101, NX=201, NY=101, Estimated Time = 0.008 min
+Message: Actual Computation Time = 0.027 min
+Message: NZ=101, NX=201, NY=101, Estimated Time = 0.027 min
+Message: NZ=1001, NX=201, NY=101, Estimated Time = 0.273 min
+Message: Actual Computation Time = 0.001 min
+Message: NZ=101, NX=201, NY=101, Estimated Time = 0.027 min
+Message: Actual Computation Time = 0.028 min
+Message: NZ=1001, NX=201, NY=101, Estimated Time = 0.276 min
+Message: Actual Computation Time = 0.001 min
+Message: NZ=101, NX=201, NY=101, Estimated Time = 0.028 min
+Message: NZ=101, NX=201, NY=101, Estimated Time = 0.028 min
