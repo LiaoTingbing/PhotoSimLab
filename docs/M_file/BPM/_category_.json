@@ -3,6 +3,6 @@
   "position": 5,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "光束传播法（BPM）是一种用于模拟光在长距离上传播的方法。该方法的计算成本与器件长度的扩展性非常好，与基于 FDTD 的方法相比，该方法在长锥度和周期性器件的设计和优化方面效率更高。"
   }
 }
