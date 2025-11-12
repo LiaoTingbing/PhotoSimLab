@@ -5,6 +5,24 @@ sidebar_position: 2
 
 # Y波导示例
 
+## 代码
+```
+lx = 20;
+ly = 10;
+lz = 100;
+dx = 0.1;
+dy = 0.1;
+dz = 1;
+lambda = 1;
+input_mode_select = 1;
+pade_order = 6;
+alpha = 0.5;
+plot_incident_field = 0;
+plot_structure = 0;
+dynamic_neff = 1;
+load_neff = 1;
+```
+
 ## 结构
 
 ![alt text](matlab/st.png)
