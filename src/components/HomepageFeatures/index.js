@@ -9,10 +9,20 @@ const FeatureList = [
     // Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-      Finite Difference Eigenmode
+      有限差分特征模式
       </>
     ),
     link: '/docs/M_file/FDE/intro',
+  },
+    {
+    title: 'BPM',
+    // Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+      光束传播算法
+      </>
+    ),
+    link: '/docs/M_file/BPM/intro',
   },
   // {
   //   title: 'Focus on What Matters',
