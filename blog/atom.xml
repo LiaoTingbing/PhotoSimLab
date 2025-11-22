@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liaotingbing.github.io/PhotoSimLab/blog</id>
     <title>PhotoSimLab Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2025-11-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liaotingbing.github.io/PhotoSimLab/blog"/>
     <subtitle>PhotoSimLab Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[作者简介]]></title>
+        <id>https://liaotingbing.github.io/PhotoSimLab/blog/long-blog-post</id>
+        <link href="https://liaotingbing.github.io/PhotoSimLab/blog/long-blog-post"/>
+        <updated>2025-11-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[廖廷兵]]></summary>
+        <content type="html"><![CDATA[<p>廖廷兵</p>]]></content>
+        <author>
+            <name>Tingbing Liao</name>
+            <uri>https://linkedin.com/in/yangshun</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://liaotingbing.github.io/PhotoSimLab/blog/welcome</id>
@@ -61,24 +73,7 @@
         <link href="https://liaotingbing.github.io/PhotoSimLab/blog/long-blog-post"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
-        <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p>
-<p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <content type="html"><![CDATA[<p>廖廷兵</p>]]></content>
         <author>
             <name>Yangshun Tay</name>
             <uri>https://linkedin.com/in/yangshun</uri>
@@ -104,13 +99,5 @@
         </author>
         <category label="Hola" term="Hola"/>
         <category label="Docusaurus" term="Docusaurus"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello]]></title>
-        <id>https://liaotingbing.github.io/PhotoSimLab/blog/2011/01/09/Hello</id>
-        <link href="https://liaotingbing.github.io/PhotoSimLab/blog/2011/01/09/Hello"/>
-        <updated>2011-01-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[nihao]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="nihao">nihao<a href="https://liaotingbing.github.io/PhotoSimLab/blog/2011/01/09/Hello#nihao" class="hash-link" aria-label="Direct link to nihao" title="Direct link to nihao" translate="no">​</a></h3>]]></content>
     </entry>
 </feed>
