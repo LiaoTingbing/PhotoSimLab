@@ -9,7 +9,7 @@ const FeatureList = [
     // Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-      有限差分特征模式
+      有限差分特征模式，特点：横向各向异性，Yee网格求解，PEC，PMC，PML，Bloch边界条件。
       </>
     ),
     link: '/docs/M_file/FDE/intro',
@@ -19,7 +19,7 @@ const FeatureList = [
     // Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-      光束传播算法
+      光束传播算法，特点：横向各向异性，Yee网格求解，PEC边界，PML边界，广角近似，动态参考折射率。
       </>
     ),
     link: '/docs/M_file/BPM/intro',

@@ -1,3 +1,15 @@
+liaotb:
+  name: Tingbing Liao
+  title: Optoelectronic EDA Engineer
+  url: https://linkedin.com/in/yangshun
+  image_url: https://github.com/yangshun.png
+  page: true
+  socials:
+    x: LiaoTingbing
+    linkedin: LiaoTingbing
+    github: LiaoTingbing
+    newsletter: https://www.greatfrontend.com
+
 yangshun:
   name: Yangshun Tay
   title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd

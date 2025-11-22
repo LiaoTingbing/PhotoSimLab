@@ -108,7 +108,15 @@ const config = {
             position: 'left',
             label: 'SimLab',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+                     {
+            type: 'docSidebar',
+            sidebarId: 'authorsSidebar',
+            position: 'left',
+            label: 'Author',
+          },
+          // {to: '/blog', label: 'Author', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
+
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',
